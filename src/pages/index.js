@@ -1,5 +1,5 @@
 import React from "react"
-import { HeaderComponent } from "./header.js";
+import { HeaderComponent } from "../components/header.js";
 
 export default () => (
   <div>
