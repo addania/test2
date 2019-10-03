@@ -1,7 +1,7 @@
 import React from "react"
 import { HeaderComponent } from "../components/header.js";
 import "../styles/global.css";
-import vid from "https://github.com/addania/test2/blob/master/vid/ulrik.mp4";
+import vid from "https://player.vimeo.com/video/364168176";
 
 export default () => (
   <div>
