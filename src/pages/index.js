@@ -12,7 +12,7 @@ export default () => (
     </source>
     </video>
     <video  controls>
-    <source src={vid} type="video/mp4">
+    <source src="https://player.vimeo.com/video/364168176" type="video/mp4">
     </source>
     </video>
  </div>)
