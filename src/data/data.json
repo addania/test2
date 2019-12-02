@@ -1,0 +1,9 @@
+[
+  {"fruit": "Kiwi", "cost": 100},
+  {"fruit": "DragonFruit", "cost": 50},
+  {"fruit": "Coconut", "cost": 35},
+  {"fruit": "Avocado", "cost": 75},
+  {"fruit": "Pineappple", "cost": 27},
+  {"fruit": "Papaya", "cost": 42},
+  {"fruit": "Watermelon", "cost": 62}
+  ]
